@@ -1,0 +1,13 @@
+button {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  height: 25px;
+  cursor: pointer;
+  font-size: 18px;
+  padding: 5px;
+}
+
+button:hover {
+  color: rgb(79, 188, 182);
+}
